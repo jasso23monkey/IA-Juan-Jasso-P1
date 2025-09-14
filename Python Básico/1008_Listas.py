@@ -10,6 +10,7 @@ print(luchadores1)
 luchadores2 = ["Rey Mysterio", "Alberto del Rio", "Jhon Cena", "Kemonito"]
 luchadores1.extend(luchadores2) #combina las listas
 print(luchadores1)
+
 luchadores1.pop() #elimina el ultimo valor de la lista
 print(luchadores1)
 
